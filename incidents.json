@@ -1,0 +1,15 @@
+{
+  "observation_minutes": 1000,
+  "incidents": [
+    {
+      "incident_id": "INC-001",
+      "failure_minute": 200,
+      "restored_minute": 210
+    },
+    {
+      "incident_id": "INC-002",
+      "failure_minute": 600,
+      "restored_minute": 630
+    }
+  ]
+}
